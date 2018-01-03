@@ -18,8 +18,8 @@ commandline 2=>**python3 drawfsm.py**
 ### Bonus
 **a.** Praitical or any other creative design 
 
-**b.** More telegram functionalities -- Sending images 於 GoGgMenubo中的"hasperson"狀態輸入 "menu " Implement 此功能
+**b.** More telegram functionalities -- **Sending images** 於 GoGgMenubo中的"hasperson"狀態輸入 "menu " Implement 此功能
                                     (By SendPhoto(userid,圖片url) 於 app.py 的line 152
 
-**c.** Dynamic data -- parsing website 於GoGgMenubo中的"hasperson"狀態輸入 "news " Implement 此功能 
+**c.** Dynamic data -- **parsing website** 於GoGgMenubo中的"hasperson"狀態輸入 "news " Implement 此功能 
                    (By BeautifulSoup於 app.py 的 line 155開始)
