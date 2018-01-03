@@ -6,7 +6,7 @@
 
 ##  How To Communication with teleBot?
 commandline => **python3 app.py**
-打開telebot 應用程式 搜尋 "GoGgMenubot" 即可與teleBot對話囉!
+打開telebot 應用程式 搜尋 "GoGgMenubot" 輸入"/start"即可與teleBot對話囉!
 
 ## How to draw fsm on website?
 commandlind 1=>**./ngrok http 5000**
