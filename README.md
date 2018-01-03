@@ -11,7 +11,7 @@ commandline => **python3 app.py**
 ## How to draw fsm on website?
 commandlind 1=>**./ngrok http 5000**
 找出https://......io
-並把drawfsm的variable 'API_TOKEN'  (in line 13) 改成 " https://......io/**hook**  "儲存後
+並把**drawfsm.py**的variable **API_TOKEN**  (in line 13) 改成 " https://......io/**hook**  "儲存後
 commandline 2=>**python3 drawfsm.py**
 打開瀏覽器進入" https://......io/**show-fsm** "後即可看到 fsm囉
 
